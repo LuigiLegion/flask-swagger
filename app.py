@@ -12,6 +12,8 @@ api = Api(
     version='1.0.0',
     title='Flask Swagger',
     description='Python web API Swagger UI boilerplate',
+    license='MIT',
+    license_url='https://opensource.org/licenses/MIT',
     validate=True
 )
 # Initialize namespace
